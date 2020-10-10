@@ -1,4 +1,4 @@
-const connection = require("../../../gt-atl-fsf-ft-08-2020-u-c/13-MVC/01-Activities/13-PartyDatabase/Unsolved/config/connection");
+
 const orm = require("../config/orm");
 
 const burger = {

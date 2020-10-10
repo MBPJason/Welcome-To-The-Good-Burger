@@ -1,7 +1,4 @@
 const express = require("express");
-const {
-  route,
-} = require("../../../gt-atl-fsf-ft-08-2020-u-c/13-MVC/01-Activities/17-CatsApp/Solved/controllers/catsController");
 
 const router = express.Router();
 
